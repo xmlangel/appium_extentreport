@@ -8,7 +8,7 @@ import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.Markup;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
 import org.apache.commons.io.FileUtils;
-import com.xmlangel.base.TestClassUsingListeners;
+import com.xmlangel.demo.TestClassUsingListeners;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -20,7 +20,7 @@ import java.io.File;
 import java.util.Arrays;
 import java.util.Date;
 
-public class TestListeners implements ITestListener {
+public class TestListenersDemo implements ITestListener {
 
     private static ExtentReports extent = ExtentManager.createInstance();
     private static ThreadLocal<ExtentTest> extentTest = new ThreadLocal<ExtentTest>();//멀티쓰레드를 위해 사용함 패러럴로 실행할때 쓰래드를 분리해서 사용. 리포트파일도 여러 쓰레드에서 생성됨. extentTest.get().pass 와같이 호출해야함.
