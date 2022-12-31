@@ -4,7 +4,7 @@
 <suite name="Suite1" verbose="1" >
     <test name="Regression1"   >
         <classes>
-            <class name = "com.xmlangel.base.NewTest" />
+            <class name = "com.xmlangel.demo.NewTest" />
         </classes>
     </test>
 </suite>

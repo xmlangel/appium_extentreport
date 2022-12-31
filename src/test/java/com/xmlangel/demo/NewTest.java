@@ -1,4 +1,4 @@
-package com.xmlangel.base;
+package com.xmlangel.demo;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
@@ -16,23 +16,20 @@ import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-import org.slf4j.Marker;
 import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.SkipException;
 import org.testng.annotations.*;
 
 import java.io.File;
-import java.io.IOException;
 import java.util.Arrays;
 import java.util.Date;
-import java.util.concurrent.TimeUnit;
 
 public class NewTest {
 
     ExtentReports extent = new ExtentReports();
     ExtentTest extentTest;
-    ExtentSparkReporter reporter = new ExtentSparkReporter("Extentreport.html");
+    ExtentSparkReporter reporter = new ExtentSparkReporter("./reports/Extentreport.html");
     WebDriver driver;
     //Properties
     public static final String WEB_DRIVER_ID = "webdriver.chrome.driver";

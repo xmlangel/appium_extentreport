@@ -1,4 +1,4 @@
-package com.xmlangel.utils;
+package com.xmlangel.utils.Listeners;
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
@@ -7,38 +7,47 @@ import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.Markup;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
+import com.xmlangel.base.InitialProcess;
+import com.xmlangel.utils.ExtentManager;
+import io.appium.java_client.AppiumDriver;
+import io.appium.java_client.android.AndroidDriver;
+import io.appium.java_client.ios.IOSDriver;
+import lombok.extern.log4j.Log4j;
 import org.apache.commons.io.FileUtils;
-import com.xmlangel.base.TestClassUsingListeners;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
+import org.w3c.dom.Element;
 
+import javax.lang.model.util.Elements;
 import java.io.File;
+import java.io.IOException;
 import java.util.Arrays;
 import java.util.Date;
-
-public class TestListeners implements ITestListener {
-
-    private static ExtentReports extent = ExtentManager.createInstance();
-    private static ThreadLocal<ExtentTest> extentTest = new ThreadLocal<ExtentTest>();//멀티쓰레드를 위해 사용함 패러럴로 실행할때 쓰래드를 분리해서 사용. 리포트파일도 여러 쓰레드에서 생성됨. extentTest.get().pass 와같이 호출해야함.
+@Log4j
+public class TestListenersApp implements ITestListener {
+    private static ExtentReports extent ;
+    public static ThreadLocal<ExtentTest> extentTest = new ThreadLocal<ExtentTest>();//멀티쓰레드를 위해 사용함 패러럴로 실행할때 쓰래드를 분리해서 사용. 리포트파일도 여러 쓰레드에서 생성됨. extentTest.get().pass 와같이 호출해야함.
 
     @Override
     public void onTestStart(ITestResult result) {
-        ExtentTest test = extent.createTest(result.getTestClass().getName() + "::" +
-                result.getMethod().getMethodName());
+        log.info("시작");
+        extent = ExtentManager.createInstance();
+        String testcase = (String) result.getTestContext().getAttribute("caseName");
+        ExtentTest test = extent.createTest(result.getMethod().getMethodName() + "::" + testcase);
         extentTest.set(test);
     }
 
     @Override
     public void onTestSuccess(ITestResult result) {
         String methodName = result.getMethod().getMethodName();
-        WebDriver driver = ((TestClassUsingListeners) result.getInstance()).driver;
-        String path = takeScreenshotToFile(driver, methodName, "file");
+        AppiumDriver driver = ((InitialProcess) result.getInstance()).driver;
+        String path = getPath(methodName, driver);
+
         try {
-            extentTest.get().pass("<b><font color=green>" + "Screenshot of Success" + "</font></b></summary>", MediaEntityBuilder.createScreenCaptureFromPath(path).build());
+            extentTest.get().pass("<b><font color=green>" + "Screenshot of Success" + "</font></b></summary>", MediaEntityBuilder.createScreenCaptureFromBase64String(path).build());
         } catch (Exception e) {
             extentTest.get().pass("Test SuccessFailed, cannot attach screenshot");
         }
@@ -51,12 +60,16 @@ public class TestListeners implements ITestListener {
     @Override
     public void onTestFailure(ITestResult result) {
         String methodName = result.getMethod().getMethodName();
+        String platformName = (String) result.getTestContext().getAttribute("platformName");
         String exceptionMessage = Arrays.toString(result.getThrowable().getStackTrace());
         String exceptionText = Arrays.toString((result.getThrowable().getMessage()).toCharArray());
-        WebDriver driver = ((TestClassUsingListeners) result.getInstance()).driver;
-        extentTest.get().fail("<details><summary><b><font color=red>Exception Occured, click to see details : "
-                + "</font></b></summary>" + exceptionMessage.replaceAll(",", "<br>") + exceptionText.replaceAll(",", "<br>") + "</details> \n");
-        String path = takeScreenshotToFile(driver, methodName, "base64");
+
+        AppiumDriver driver = ((InitialProcess) result.getInstance()).driver;
+
+        extentTest.get().fail("<details><summary><b><font color=red>Exception Occured, click to see details :  "
+                + exceptionText.replace(",", "").replace("[", "").replace("]", "")
+                + "</font></b></summary>" + exceptionMessage.replaceAll(",", "<br>") + "</details> \n");
+        String path = getPath(methodName, driver);
         try {
             extentTest.get().fail("<b><font color=red>" + "Screenshot of failure" + "</font></b></summary>", MediaEntityBuilder.createScreenCaptureFromBase64String(path).build());
         } catch (Exception e) {
@@ -67,6 +80,13 @@ public class TestListeners implements ITestListener {
         extentTest.get().log(Status.FAIL, m);
 
     }
+
+
+    private String getPath(String methodName,  AppiumDriver driver) {
+        String path = takeScreenshotToFile(driver, methodName, "base64");
+        return path;
+    }
+
 
     @Override
     public void onTestSkipped(ITestResult result) {
@@ -108,7 +128,7 @@ public class TestListeners implements ITestListener {
      * @param type       file",base64
      * @return
      */
-    public String takeScreenshotToFile(WebDriver driver, String methodName, String type) {
+    public String takeScreenshotToFile(AppiumDriver driver, String methodName, String type) {
         switch (type) {
             case ("file"):
                 String fimeName = getScreenshotName(methodName);
@@ -133,7 +153,9 @@ public class TestListeners implements ITestListener {
 
     }
 
-    public String takeScreenshotToBase64(WebDriver driver) {
+
+
+    public String takeScreenshotToBase64(AppiumDriver driver) {
         String screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BASE64);
         return screenshot;
     }
@@ -144,5 +166,8 @@ public class TestListeners implements ITestListener {
         return fimeName;
     }
 
+    public static void setMessage(String message) {
+        extentTest.get().log(Status.INFO,message);
+    }
 
 }

@@ -14,21 +14,56 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>19</maven.compiler.source>
         <maven.compiler.target>19</maven.compiler.target>
+        <org.slf4j-version>2.0.6</org.slf4j-version>
+        <logback-classic-version>1.4.5</logback-classic-version>
+        <extentreports-version>5.0.9</extentreports-version>
+        <testng-version>7.7.0</testng-version>
+        <selenium-java-version>4.7.2</selenium-java-version>
+        <appium-java-client-version>8.3.0</appium-java-client-version>
+        <commons-io-version>2.11.0</commons-io-version>
+        <guava-version>31.1-jre</guava-version>
+        <lombok-version>1.18.24</lombok-version>
     </properties>
 
     <dependencies>
+
+        <!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
+        <!-- Logging -->
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-api</artifactId>
+            <version>${org.slf4j-version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>jcl-over-slf4j</artifactId>
+            <version>${org.slf4j-version}</version>
+            <scope>runtime</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-log4j12</artifactId>
+            <version>${org.slf4j-version}</version>
+            <scope>runtime</scope>
+        </dependency>
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+            <version>${logback-classic-version}</version>
+        </dependency>
+
         <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
         <dependency>
             <groupId>com.aventstack</groupId>
             <artifactId>extentreports</artifactId>
-            <version>5.0.9</version>
+            <version>${extentreports-version}</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.testng/testng -->
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
-            <version>7.7.0</version>
+            <version>${testng-version}</version>
             <scope>test</scope>
         </dependency>
 
@@ -36,33 +71,36 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
-            <version>4.7.2</version>
-        </dependency>
-
-        <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server -->
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-server</artifactId>
-            <version>3.141.59</version>
+            <version>${selenium-java-version}</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.11.0</version>
+            <version>${commons-io-version}</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/com.google.guava/guava -->
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>31.1-jre</version>
+            <version>${guava-version}</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/io.appium/java-client -->
+        <dependency>
+            <groupId>io.appium</groupId>
+            <artifactId>java-client</artifactId>
+            <version>${appium-java-client-version}</version>
+        </dependency>
 
-
-
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>${lombok-version}</version>
+            <scope>provided</scope>
+        </dependency>
 
     </dependencies>
 </project>

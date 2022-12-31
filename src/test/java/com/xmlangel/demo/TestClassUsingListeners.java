@@ -1,4 +1,4 @@
-package com.xmlangel.base;
+package com.xmlangel.demo;
 
 import org.openqa.selenium.PageLoadStrategy;
 import org.openqa.selenium.WebDriver;
@@ -11,6 +11,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
+@Listeners(com.xmlangel.utils.TestListenersDemo.class)
 public class TestClassUsingListeners {
     public WebDriver driver;
     //Properties
