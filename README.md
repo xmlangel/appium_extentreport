@@ -1,4 +1,4 @@
-# selenium_extentreport
+# appium_extentreport
 - selenium 3.x
 - extentReport 5.x
 - appium 1.x
