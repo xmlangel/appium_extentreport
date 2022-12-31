@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 <suite name="Suite1" verbose="1">
+    <parameter name="platformName" value="iOS"/>
+    <parameter name="reportOpen" value="true"/>
     <listeners>
         <listener class-name="com.xmlangel.utils.Listeners.TestListenersApp"></listener>
+        <listener class-name="com.xmlangel.utils.Listeners.AnnotationTransformer"></listener>>
     </listeners>
-    <test name="Regression1">
+    <test name="ios">
         <classes>
-            <class name="com.xmlangel.test.AndroidCreateSessionTest"/>
-            <class name="com.xmlangel.test.AndroidCreateSessionTest2"/>
+            <class name="com.xmlangel.test.iOSCreateSessionTest"/>
         </classes>
     </test>
 </suite>

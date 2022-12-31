@@ -29,7 +29,7 @@ public class NewTest {
 
     ExtentReports extent = new ExtentReports();
     ExtentTest extentTest;
-    ExtentSparkReporter reporter = new ExtentSparkReporter("/reports/Extentreport.html");
+    ExtentSparkReporter reporter = new ExtentSparkReporter("./reports/Extentreport.html");
     WebDriver driver;
     //Properties
     public static final String WEB_DRIVER_ID = "webdriver.chrome.driver";

@@ -4,10 +4,11 @@
     <listeners>
         <listener class-name="com.xmlangel.utils.Listeners.TestListenersApp"></listener>
     </listeners>
-    <test name="Regression1">
+    <parameter name="platformName" value="Android"/>
+    <parameter name="reportOpen" value="true"/>
+    <test name="android">
         <classes>
             <class name="com.xmlangel.test.AndroidCreateSessionTest"/>
-            <class name="com.xmlangel.test.AndroidCreateSessionTest2"/>
         </classes>
     </test>
 </suite>
