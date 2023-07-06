@@ -18,8 +18,8 @@
         <logback-classic-version>1.4.5</logback-classic-version>
         <extentreports-version>5.0.9</extentreports-version>
         <testng-version>7.7.0</testng-version>
-        <selenium-java-version>4.7.2</selenium-java-version>
-        <appium-java-client-version>8.3.0</appium-java-client-version>
+        <selenium-java-version>4.9.1</selenium-java-version>
+        <appium-java-client-version>8.5.0</appium-java-client-version>
         <commons-io-version>2.11.0</commons-io-version>
         <guava-version>31.1-jre</guava-version>
         <lombok-version>1.18.24</lombok-version>

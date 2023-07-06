@@ -1,0 +1,677 @@
+2023-06-16 20:33:20 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 20:33:23 INFO  AppiumRunner:36 - Appium Server started
+2023-06-16 20:33:24 INFO  TestListenersApp:36 - 시작
+2023-06-16 20:33:24 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_20_33_24_KST_2023.html
+2023-06-16 20:33:24 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_20_33_24_KST_2023.html
+2023-06-16 20:33:24 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 20:35:09 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 20:35:29 INFO  TestListenersApp:36 - 시작
+2023-06-16 20:35:29 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_20_35_29_KST_2023.html
+2023-06-16 20:35:29 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_20_35_29_KST_2023.html
+2023-06-16 20:35:29 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 20:36:26 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 20:36:29 INFO  AppiumRunner:36 - Appium Server started
+2023-06-16 20:36:29 INFO  TestListenersApp:36 - 시작
+2023-06-16 20:36:30 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_20_36_29_KST_2023.html
+2023-06-16 20:36:30 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_20_36_29_KST_2023.html
+2023-06-16 20:36:30 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 20:37:05 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 20:37:25 INFO  TestListenersApp:36 - 시작
+2023-06-16 20:37:26 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_20_37_26_KST_2023.html
+2023-06-16 20:37:26 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_20_37_26_KST_2023.html
+2023-06-16 20:37:26 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 20:39:49 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 20:39:51 INFO  AppiumRunner:36 - Appium Server started
+2023-06-16 20:40:23 INFO  TestListenersApp:36 - 시작
+2023-06-16 20:40:23 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_20_40_23_KST_2023.html
+2023-06-16 20:40:23 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_20_40_23_KST_2023.html
+2023-06-16 20:40:23 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 20:40:24 INFO  InitialProcess:124 - reportOpen = true
+2023-06-16 20:48:12 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 20:48:33 INFO  TestListenersApp:36 - 시작
+2023-06-16 20:48:33 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_20_48_33_KST_2023.html
+2023-06-16 20:48:33 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_20_48_33_KST_2023.html
+2023-06-16 20:48:33 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 20:49:39 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 20:49:41 INFO  AppiumRunner:36 - Appium Server started
+2023-06-16 20:49:41 INFO  InitialProcess:88 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 20:49:53 INFO  TestListenersApp:36 - 시작
+2023-06-16 20:49:53 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_20_49_53_KST_2023.html
+2023-06-16 20:49:53 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_20_49_53_KST_2023.html
+2023-06-16 20:49:53 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 20:49:54 INFO  InitialProcess:124 - reportOpen = true
+2023-06-16 20:54:08 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 20:54:08 INFO  TestListenersApp:36 - 시작
+2023-06-16 20:54:08 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_20_54_08_KST_2023.html
+2023-06-16 20:54:08 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_20_54_08_KST_2023.html
+2023-06-16 20:54:08 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 20:54:12 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 20:54:12 INFO  TestListenersApp:36 - 시작
+2023-06-16 20:54:12 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_20_54_12_KST_2023.html
+2023-06-16 20:54:12 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_20_54_12_KST_2023.html
+2023-06-16 20:54:12 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 20:55:50 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 20:56:11 INFO  TestListenersApp:36 - 시작
+2023-06-16 20:56:11 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_20_56_11_KST_2023.html
+2023-06-16 20:56:11 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_20_56_11_KST_2023.html
+2023-06-16 20:56:11 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 20:56:59 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 20:57:01 INFO  AppiumRunner:36 - Appium Server startedhttp://0.0.0.0:4723/
+2023-06-16 20:57:01 INFO  InitialProcess:88 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 20:57:08 INFO  TestListenersApp:36 - 시작
+2023-06-16 20:57:08 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_20_57_08_KST_2023.html
+2023-06-16 20:57:08 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_20_57_08_KST_2023.html
+2023-06-16 20:57:08 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 20:57:09 INFO  InitialProcess:124 - reportOpen = true
+2023-06-16 20:57:39 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 20:57:39 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 20:58:00 INFO  TestListenersApp:36 - 시작
+2023-06-16 20:58:00 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_20_58_00_KST_2023.html
+2023-06-16 20:58:00 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_20_58_00_KST_2023.html
+2023-06-16 20:58:00 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:09:23 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:09:23 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:09:23 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:09:23 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_09_23_KST_2023.html
+2023-06-16 21:09:23 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_09_23_KST_2023.html
+2023-06-16 21:09:23 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:09:31 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:09:31 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:09:31 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:09:31 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_09_31_KST_2023.html
+2023-06-16 21:09:31 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_09_31_KST_2023.html
+2023-06-16 21:09:31 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:09:53 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:09:54 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:09:56 INFO  AppiumRunner:36 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:09:56 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:10:06 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:10:06 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_10_06_KST_2023.html
+2023-06-16 21:10:06 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_10_06_KST_2023.html
+2023-06-16 21:10:06 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:10:07 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:10:07 INFO  InitialProcess:130 - reportOpen = true
+2023-06-16 21:10:21 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:10:21 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:10:41 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:10:41 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_10_41_KST_2023.html
+2023-06-16 21:10:41 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_10_41_KST_2023.html
+2023-06-16 21:10:41 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:12:42 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:12:42 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:12:44 INFO  AppiumRunner:36 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:12:44 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:12:51 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:12:51 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_12_51_KST_2023.html
+2023-06-16 21:12:51 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_12_51_KST_2023.html
+2023-06-16 21:12:51 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:12:52 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:12:52 INFO  InitialProcess:130 - reportOpen = true
+2023-06-16 21:13:39 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:13:39 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:13:59 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:13:59 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_13_59_KST_2023.html
+2023-06-16 21:13:59 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_13_59_KST_2023.html
+2023-06-16 21:13:59 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:15:45 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:15:45 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:15:48 INFO  AppiumRunner:36 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:15:48 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:15:55 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:15:55 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_15_55_KST_2023.html
+2023-06-16 21:15:55 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_15_55_KST_2023.html
+2023-06-16 21:15:55 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:15:55 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:15:56 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:15:56 INFO  InitialProcess:131 - reportOpen = true
+2023-06-16 21:19:06 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:19:06 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:19:06 INFO  AppiumRunner:57 - 
+2023-06-16 21:19:26 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:19:26 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_19_26_KST_2023.html
+2023-06-16 21:19:26 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_19_26_KST_2023.html
+2023-06-16 21:19:26 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:19:39 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:19:39 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:19:39 INFO  AppiumRunner:57 - pid : null
+2023-06-16 21:19:42 INFO  AppiumRunner:36 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:19:42 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:19:49 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:19:49 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_19_49_KST_2023.html
+2023-06-16 21:19:49 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_19_49_KST_2023.html
+2023-06-16 21:19:49 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:19:49 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:19:50 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:19:50 INFO  AppiumRunner:57 - pid : null
+2023-06-16 21:19:50 INFO  InitialProcess:131 - reportOpen = true
+2023-06-16 21:20:37 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:20:37 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:20:37 INFO  AppiumRunner:57 - pid : null
+2023-06-16 21:20:37 INFO  AppiumRunner:58 - kill
+2023-06-16 21:20:57 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:20:57 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_20_57_KST_2023.html
+2023-06-16 21:20:57 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_20_57_KST_2023.html
+2023-06-16 21:20:57 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:21:52 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:21:52 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:21:52 INFO  AppiumRunner:54 - command : ps -ef | grep appium | grep 4723 | awk '{print $2}'
+2023-06-16 21:21:52 INFO  AppiumRunner:57 - pid : null
+2023-06-16 21:21:52 INFO  AppiumRunner:58 - kill
+2023-06-16 21:21:55 INFO  AppiumRunner:36 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:21:55 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:22:02 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:22:02 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_22_02_KST_2023.html
+2023-06-16 21:22:02 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_22_02_KST_2023.html
+2023-06-16 21:22:02 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:22:02 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:22:03 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:22:03 INFO  AppiumRunner:54 - command : ps -ef | grep appium | grep 4723 | awk '{print $2}'
+2023-06-16 21:22:03 INFO  AppiumRunner:57 - pid : null
+2023-06-16 21:22:03 INFO  AppiumRunner:58 - kill
+2023-06-16 21:22:03 INFO  InitialProcess:131 - reportOpen = true
+2023-06-16 21:26:42 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:26:42 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:26:42 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:26:42 INFO  AppiumRunner:58 - pid : 59869
+2023-06-16 21:26:42 INFO  AppiumRunner:59 - kill
+2023-06-16 21:26:45 INFO  AppiumRunner:36 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:26:45 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:26:51 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:26:52 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_26_52_KST_2023.html
+2023-06-16 21:26:52 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_26_52_KST_2023.html
+2023-06-16 21:26:52 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:26:52 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:26:53 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:26:53 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:26:53 INFO  AppiumRunner:58 - pid : 60871
+2023-06-16 21:26:53 INFO  AppiumRunner:59 - kill
+2023-06-16 21:27:48 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:27:48 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:27:48 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:27:48 INFO  AppiumRunner:58 - pid : 60878
+2023-06-16 21:27:48 INFO  AppiumRunner:59 - kill
+2023-06-16 21:27:50 INFO  AppiumRunner:36 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:27:50 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:27:57 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:27:57 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_27_57_KST_2023.html
+2023-06-16 21:27:57 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_27_57_KST_2023.html
+2023-06-16 21:27:57 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:27:58 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:27:58 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:27:58 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:27:58 INFO  AppiumRunner:58 - pid : 60955
+2023-06-16 21:27:58 INFO  AppiumRunner:59 - kill
+2023-06-16 21:28:07 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:28:07 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:28:07 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:28:07 INFO  AppiumRunner:58 - pid : 60960
+2023-06-16 21:28:07 INFO  AppiumRunner:59 - kill
+2023-06-16 21:28:09 INFO  AppiumRunner:36 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:28:09 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:28:16 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:28:16 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_28_16_KST_2023.html
+2023-06-16 21:28:16 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_28_16_KST_2023.html
+2023-06-16 21:28:16 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:28:16 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:28:17 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:28:17 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:28:17 INFO  AppiumRunner:58 - pid : 61032
+2023-06-16 21:28:17 INFO  AppiumRunner:59 - kill
+2023-06-16 21:30:14 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:30:14 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:30:14 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:30:14 INFO  AppiumRunner:58 - pid : 61037
+2023-06-16 21:30:14 INFO  AppiumRunner:59 - kill
+2023-06-16 21:30:17 INFO  AppiumRunner:36 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:30:17 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:30:23 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:30:24 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_30_24_KST_2023.html
+2023-06-16 21:30:24 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_30_24_KST_2023.html
+2023-06-16 21:30:24 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:30:24 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:30:25 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:30:25 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:30:25 INFO  AppiumRunner:58 - pid : 61158
+2023-06-16 21:30:25 INFO  AppiumRunner:59 - kill
+2023-06-16 21:31:09 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:31:09 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:31:09 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:31:09 INFO  AppiumRunner:58 - pid : 61163
+2023-06-16 21:31:09 INFO  AppiumRunner:59 - kill
+2023-06-16 21:31:09 INFO  AppiumRunner:61 - killCommand : kill -9 61163
+2023-06-16 21:31:11 INFO  AppiumRunner:36 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:31:11 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:31:18 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:31:18 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_31_18_KST_2023.html
+2023-06-16 21:31:18 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_31_18_KST_2023.html
+2023-06-16 21:31:18 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:31:19 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:31:19 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:31:19 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:31:19 INFO  AppiumRunner:58 - pid : 61248
+2023-06-16 21:31:19 INFO  AppiumRunner:59 - kill
+2023-06-16 21:31:19 INFO  AppiumRunner:61 - killCommand : kill -9 61248
+2023-06-16 21:33:25 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:33:25 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:33:25 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:33:25 INFO  AppiumRunner:58 - pid : 61253
+2023-06-16 21:33:25 INFO  AppiumRunner:59 - kill
+2023-06-16 21:33:25 INFO  AppiumRunner:61 - killCommand : kill -9 61253
+2023-06-16 21:33:46 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:33:46 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_33_46_KST_2023.html
+2023-06-16 21:33:46 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_33_46_KST_2023.html
+2023-06-16 21:33:46 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:35:10 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:35:10 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:35:10 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:35:10 INFO  AppiumRunner:58 - pid : null
+2023-06-16 21:35:10 INFO  AppiumRunner:59 - kill
+2023-06-16 21:35:10 INFO  AppiumRunner:61 - killCommand : kill -9 null
+2023-06-16 21:35:12 INFO  AppiumRunner:36 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:35:12 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:35:19 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:35:19 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_35_19_KST_2023.html
+2023-06-16 21:35:19 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_35_19_KST_2023.html
+2023-06-16 21:35:19 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:35:20 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:35:20 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:35:20 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:35:20 INFO  AppiumRunner:58 - pid : 61421
+2023-06-16 21:35:20 INFO  AppiumRunner:59 - kill
+2023-06-16 21:35:20 INFO  AppiumRunner:61 - killCommand : kill -9 61421
+2023-06-16 21:35:20 INFO  InitialProcess:131 - reportOpen = true
+2023-06-16 21:37:03 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:37:03 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:37:03 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:37:03 INFO  AppiumRunner:58 - pid : 61427
+2023-06-16 21:37:03 INFO  AppiumRunner:59 - kill
+2023-06-16 21:37:03 INFO  AppiumRunner:61 - killCommand : kill -9 61427
+2023-06-16 21:38:31 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:38:31 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:38:31 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:38:31 INFO  AppiumRunner:58 - pid : null
+2023-06-16 21:38:31 INFO  AppiumRunner:59 - kill
+2023-06-16 21:38:31 INFO  AppiumRunner:61 - killCommand : kill -9 null
+2023-06-16 21:38:47 INFO  AppiumRunner:36 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:38:47 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:38:54 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:38:54 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_38_54_KST_2023.html
+2023-06-16 21:38:54 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_38_54_KST_2023.html
+2023-06-16 21:38:54 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:38:54 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:38:54 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:38:54 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:38:55 INFO  AppiumRunner:58 - pid : 62965
+2023-06-16 21:38:55 INFO  AppiumRunner:59 - kill
+2023-06-16 21:38:55 INFO  AppiumRunner:61 - killCommand : kill -9 62965
+2023-06-16 21:39:44 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:39:44 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:39:44 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:39:44 INFO  AppiumRunner:58 - pid : 62992
+2023-06-16 21:39:44 INFO  AppiumRunner:59 - kill
+2023-06-16 21:39:44 INFO  AppiumRunner:61 - killCommand : kill -9 62992
+2023-06-16 21:40:16 INFO  AppiumRunner:36 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:40:16 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:40:23 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:40:23 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_40_23_KST_2023.html
+2023-06-16 21:40:23 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_40_23_KST_2023.html
+2023-06-16 21:40:23 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:40:24 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:40:24 INFO  AppiumRunner:51 - stopAppiumService
+2023-06-16 21:40:25 INFO  AppiumRunner:55 - command : lsof -i :4723 -t
+2023-06-16 21:40:25 INFO  AppiumRunner:58 - pid : 63083
+2023-06-16 21:40:25 INFO  AppiumRunner:59 - kill
+2023-06-16 21:43:36 INFO  AppiumRunner:61 - killCommand : kill -9 63083
+2023-06-16 21:43:36 INFO  InitialProcess:131 - reportOpen = true
+2023-06-16 21:45:04 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:45:04 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:45:04 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:45:04 INFO  AppiumRunner:63 - pids: []
+2023-06-16 21:45:04 INFO  AppiumRunner:65 - kill
+2023-06-16 21:45:07 INFO  AppiumRunner:38 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:45:07 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:45:14 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:45:14 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_45_14_KST_2023.html
+2023-06-16 21:45:14 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_45_14_KST_2023.html
+2023-06-16 21:45:14 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:45:15 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:45:15 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:45:15 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:45:15 INFO  AppiumRunner:63 - pids: [63452, 63457]
+2023-06-16 21:45:15 INFO  AppiumRunner:65 - kill
+2023-06-16 21:45:15 INFO  AppiumRunner:68 - killCommand: kill -9 63452
+2023-06-16 21:47:08 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:47:08 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:47:08 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:47:08 INFO  AppiumRunner:63 - pids: [63457]
+2023-06-16 21:47:08 INFO  AppiumRunner:65 - kill
+2023-06-16 21:47:08 INFO  AppiumRunner:68 - killCommand: kill -9 63457
+2023-06-16 21:47:10 INFO  AppiumRunner:38 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:47:10 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:47:17 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:47:17 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_47_17_KST_2023.html
+2023-06-16 21:47:17 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_47_17_KST_2023.html
+2023-06-16 21:47:17 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:47:18 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:47:18 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:47:18 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:47:18 INFO  AppiumRunner:63 - pids: [63536, 63541]
+2023-06-16 21:47:18 INFO  AppiumRunner:65 - kill
+2023-06-16 21:47:18 INFO  AppiumRunner:68 - killCommand: kill -9 63536
+2023-06-16 21:47:50 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:47:50 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:47:50 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:47:50 INFO  AppiumRunner:63 - pids: [63541]
+2023-06-16 21:47:50 INFO  AppiumRunner:65 - kill
+2023-06-16 21:47:50 INFO  AppiumRunner:68 - killCommand: kill -9 63541
+2023-06-16 21:47:52 INFO  AppiumRunner:38 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:47:52 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:47:59 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:47:59 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_47_59_KST_2023.html
+2023-06-16 21:47:59 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_47_59_KST_2023.html
+2023-06-16 21:47:59 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:47:59 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:48:00 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:48:00 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:48:00 INFO  AppiumRunner:63 - pids: [63615, 63620]
+2023-06-16 21:48:00 INFO  AppiumRunner:65 - kill
+2023-06-16 21:48:00 INFO  AppiumRunner:68 - killCommand: kill -9 63615
+2023-06-16 21:48:55 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:48:55 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:48:55 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:48:55 INFO  AppiumRunner:63 - pids: [63620]
+2023-06-16 21:48:55 INFO  AppiumRunner:65 - kill
+2023-06-16 21:48:55 INFO  AppiumRunner:68 - killCommand: kill -9 63620
+2023-06-16 21:48:57 INFO  AppiumRunner:38 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:48:57 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:49:04 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:49:04 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_49_04_KST_2023.html
+2023-06-16 21:49:04 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_49_04_KST_2023.html
+2023-06-16 21:49:04 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:49:05 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:49:05 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:49:05 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:49:05 INFO  AppiumRunner:63 - pids: [63703, 63708]
+2023-06-16 21:49:05 INFO  AppiumRunner:65 - kill
+2023-06-16 21:49:05 INFO  AppiumRunner:68 - killCommand: kill -9 63703
+2023-06-16 21:50:23 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:50:23 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:50:23 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:50:23 INFO  AppiumRunner:63 - pids: [63708]
+2023-06-16 21:50:23 INFO  AppiumRunner:65 - kill
+2023-06-16 21:50:23 INFO  AppiumRunner:69 - killCommand: kill -9 63708
+2023-06-16 21:50:25 INFO  AppiumRunner:38 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:50:25 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:50:32 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:50:32 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_50_32_KST_2023.html
+2023-06-16 21:50:32 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_50_32_KST_2023.html
+2023-06-16 21:50:32 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:50:33 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:50:33 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:50:33 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:50:33 INFO  AppiumRunner:63 - pids: [63798, 63804]
+2023-06-16 21:50:33 INFO  AppiumRunner:65 - kill
+2023-06-16 21:50:33 INFO  AppiumRunner:69 - killCommand: kill -9 63798
+2023-06-16 21:53:27 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:53:27 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:53:27 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:53:27 INFO  AppiumRunner:63 - pids: [63804]
+2023-06-16 21:53:27 INFO  AppiumRunner:65 - kill
+2023-06-16 21:53:27 INFO  AppiumRunner:68 - killCommand: kill -9 63804
+2023-06-16 21:53:30 INFO  AppiumRunner:38 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:53:30 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:53:37 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:53:37 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_53_37_KST_2023.html
+2023-06-16 21:53:37 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_53_37_KST_2023.html
+2023-06-16 21:53:37 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:53:37 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:53:38 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:53:38 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:53:38 INFO  AppiumRunner:63 - pids: [63949, 63954]
+2023-06-16 21:53:38 INFO  AppiumRunner:65 - kill
+2023-06-16 21:53:38 INFO  AppiumRunner:68 - killCommand: kill -9 63949
+2023-06-16 21:55:58 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:55:58 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:55:58 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:55:58 INFO  AppiumRunner:63 - pids: [63954]
+2023-06-16 21:55:58 INFO  AppiumRunner:65 - kill
+2023-06-16 21:55:58 INFO  AppiumRunner:68 - killCommand: kill -9 63954
+2023-06-16 21:56:00 INFO  AppiumRunner:38 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:56:00 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:56:07 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:56:07 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_56_07_KST_2023.html
+2023-06-16 21:56:07 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_56_07_KST_2023.html
+2023-06-16 21:56:07 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:56:07 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:56:08 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:56:08 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:56:08 INFO  AppiumRunner:63 - pids: [64053, 64058]
+2023-06-16 21:56:08 INFO  AppiumRunner:65 - kill
+2023-06-16 21:56:08 INFO  AppiumRunner:68 - killCommand: kill -9 64053
+2023-06-16 21:57:27 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:57:27 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:57:27 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:57:27 INFO  AppiumRunner:63 - pids: [64058]
+2023-06-16 21:57:27 INFO  AppiumRunner:65 - kill
+2023-06-16 21:57:27 INFO  AppiumRunner:68 - killCommand: kill -9 64058
+2023-06-16 21:57:27 INFO  AppiumRunner:72 - Exit code: 0
+2023-06-16 21:57:29 INFO  AppiumRunner:38 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:57:29 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:57:36 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:57:36 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_57_36_KST_2023.html
+2023-06-16 21:57:36 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_57_36_KST_2023.html
+2023-06-16 21:57:36 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:57:36 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:57:37 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:57:37 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:57:37 INFO  AppiumRunner:63 - pids: [64152, 64158]
+2023-06-16 21:57:37 INFO  AppiumRunner:65 - kill
+2023-06-16 21:57:37 INFO  AppiumRunner:68 - killCommand: kill -9 64152
+2023-06-16 21:58:58 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 21:58:58 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:58:58 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:58:58 INFO  AppiumRunner:63 - pids: [64158]
+2023-06-16 21:58:58 INFO  AppiumRunner:65 - kill
+2023-06-16 21:58:58 INFO  AppiumRunner:68 - killCommand: kill -9 64158
+2023-06-16 21:58:58 INFO  AppiumRunner:70 - processBuilder: java.lang.ProcessBuilder@291caca8
+2023-06-16 21:58:58 INFO  AppiumRunner:73 - Exit code: 0
+2023-06-16 21:59:00 INFO  AppiumRunner:38 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 21:59:00 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 21:59:07 INFO  TestListenersApp:36 - 시작
+2023-06-16 21:59:07 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_21_59_07_KST_2023.html
+2023-06-16 21:59:07 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_21_59_07_KST_2023.html
+2023-06-16 21:59:07 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 21:59:08 INFO  InitialProcess:115 - After-Suite
+2023-06-16 21:59:08 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 21:59:08 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 21:59:08 INFO  AppiumRunner:63 - pids: [64240, 64245]
+2023-06-16 21:59:08 INFO  AppiumRunner:65 - kill
+2023-06-16 21:59:08 INFO  AppiumRunner:68 - killCommand: kill -9 64240
+2023-06-16 21:59:08 INFO  AppiumRunner:70 - processBuilder: java.lang.ProcessBuilder@5c7668ba
+2023-06-16 22:01:27 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 22:01:27 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 22:01:27 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 22:01:27 INFO  AppiumRunner:63 - pids: [64245]
+2023-06-16 22:01:27 INFO  AppiumRunner:65 - kill
+2023-06-16 22:01:27 INFO  AppiumRunner:68 - killCommand1: kill -9 64245
+2023-06-16 22:01:27 INFO  AppiumRunner:74 - killCommand2: kill -9 64245
+2023-06-16 22:01:29 INFO  AppiumRunner:38 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 22:01:29 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 22:01:36 INFO  TestListenersApp:36 - 시작
+2023-06-16 22:01:36 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_22_01_36_KST_2023.html
+2023-06-16 22:01:36 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_22_01_36_KST_2023.html
+2023-06-16 22:01:36 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 22:01:36 INFO  InitialProcess:115 - After-Suite
+2023-06-16 22:01:37 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 22:01:37 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 22:01:37 INFO  AppiumRunner:63 - pids: [64340, 64346]
+2023-06-16 22:01:37 INFO  AppiumRunner:65 - kill
+2023-06-16 22:01:37 INFO  AppiumRunner:68 - killCommand1: kill -9 64340
+2023-06-16 23:23:51 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 23:23:52 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 23:23:52 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 23:23:52 INFO  AppiumRunner:63 - pids: [64346]
+2023-06-16 23:23:52 INFO  AppiumRunner:65 - kill
+2023-06-16 23:23:52 INFO  AppiumRunner:68 - killCommand: kill -9 64346
+2023-06-16 23:23:52 INFO  AppiumRunner:70 - processBuilder: java.lang.ProcessBuilder@291caca8
+2023-06-16 23:23:52 INFO  AppiumRunner:73 - Exit code: 0
+2023-06-16 23:23:54 INFO  AppiumRunner:38 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 23:23:54 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 23:24:01 INFO  TestListenersApp:36 - 시작
+2023-06-16 23:24:01 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_23_24_01_KST_2023.html
+2023-06-16 23:24:01 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_23_24_01_KST_2023.html
+2023-06-16 23:24:01 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 23:24:02 INFO  InitialProcess:115 - After-Suite
+2023-06-16 23:26:33 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 23:26:33 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 23:26:33 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 23:26:33 INFO  AppiumRunner:63 - pids: []
+2023-06-16 23:26:48 INFO  AppiumRunner:65 - kill
+2023-06-16 23:26:50 INFO  AppiumRunner:38 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 23:26:50 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 23:26:57 INFO  TestListenersApp:36 - 시작
+2023-06-16 23:26:57 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_23_26_57_KST_2023.html
+2023-06-16 23:26:57 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_23_26_57_KST_2023.html
+2023-06-16 23:26:57 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 23:26:58 INFO  InitialProcess:115 - After-Suite
+2023-06-16 23:27:16 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 23:30:52 INFO  AppiumRunner:56 - command: lsof -i :4723 -t
+2023-06-16 23:30:52 INFO  AppiumRunner:63 - pids: [65095, 65099]
+2023-06-16 23:30:52 INFO  AppiumRunner:65 - kill
+2023-06-16 23:30:52 INFO  AppiumRunner:68 - killCommand: kill -9 65095
+2023-06-16 23:30:52 INFO  AppiumRunner:70 - processBuilder: java.lang.ProcessBuilder@741f8dbe
+2023-06-16 23:31:04 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-16 23:31:04 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 23:31:04 INFO  AppiumRunner:56 - command: lsof -i :4723 -a -c node -s TCP:LISTEN -t
+2023-06-16 23:31:04 INFO  AppiumRunner:63 - pids: []
+2023-06-16 23:31:04 INFO  AppiumRunner:65 - kill
+2023-06-16 23:31:06 INFO  AppiumRunner:38 - Appium Server started http://0.0.0.0:4723/
+2023-06-16 23:31:06 INFO  InitialProcess:94 - AppiumURL : http://0.0.0.0:4723/
+2023-06-16 23:31:13 INFO  TestListenersApp:36 - 시작
+2023-06-16 23:31:13 INFO  ExtentManager:53 - AutomationReport_Fri_Jun_16_23_31_13_KST_2023.html
+2023-06-16 23:31:13 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Fri_Jun_16_23_31_13_KST_2023.html
+2023-06-16 23:31:13 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-16 23:31:13 INFO  InitialProcess:115 - After-Suite
+2023-06-16 23:31:14 INFO  AppiumRunner:53 - stopAppiumService
+2023-06-16 23:31:14 INFO  AppiumRunner:56 - command: lsof -i :4723 -a -c node -s TCP:LISTEN -t
+2023-06-16 23:31:14 INFO  AppiumRunner:63 - pids: [65289]
+2023-06-16 23:31:14 INFO  AppiumRunner:65 - kill
+2023-06-16 23:31:14 INFO  AppiumRunner:68 - killCommand: kill -9 65289
+2023-06-16 23:31:14 INFO  AppiumRunner:70 - processBuilder: java.lang.ProcessBuilder@1174a305
+2023-06-16 23:31:14 INFO  AppiumRunner:73 - Exit code: 0
+2023-06-16 23:31:14 INFO  InitialProcess:131 - reportOpen = true
+2023-06-17 00:05:26 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-17 00:05:29 INFO  InitialProcess:177 - Appium Server started http://0.0.0.0:4723/
+2023-06-17 00:05:29 INFO  InitialProcess:101 - AppiumURL : http://0.0.0.0:4723/
+2023-06-17 00:05:37 INFO  TestListenersApp:36 - 시작
+2023-06-17 00:05:37 INFO  ExtentManager:53 - AutomationReport_Sat_Jun_17_00_05_37_KST_2023.html
+2023-06-17 00:05:37 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Sat_Jun_17_00_05_37_KST_2023.html
+2023-06-17 00:05:37 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-17 00:05:37 INFO  InitialProcess:122 - After-Suite
+2023-06-17 00:05:42 INFO  InitialProcess:138 - reportOpen = true
+2023-06-17 00:06:53 INFO  Utils:112 - [TestNG] Running:
+  /Users/dicky/kmdata/git/kmkim/appium_extentreport/testNg_android.xml
+
+2023-06-17 00:06:53 INFO  InitialProcess:167 - java.io.PrintStream@8297b3a
+2023-06-17 00:06:56 INFO  InitialProcess:175 - Appium Server started http://0.0.0.0:4723/
+2023-06-17 00:06:56 INFO  InitialProcess:101 - AppiumURL : http://0.0.0.0:4723/
+2023-06-17 00:07:03 INFO  TestListenersApp:36 - 시작
+2023-06-17 00:07:03 INFO  ExtentManager:53 - AutomationReport_Sat_Jun_17_00_07_03_KST_2023.html
+2023-06-17 00:07:03 INFO  ExtentManager:31 - fimeName = /Users/dicky/kmdata/git/kmkim/appium_extentreport/reports/AutomationReport_Sat_Jun_17_00_07_03_KST_2023.html
+2023-06-17 00:07:03 INFO  ExtentManager:38 - Report platformName = Android
+2023-06-17 00:07:03 INFO  InitialProcess:122 - After-Suite
+2023-06-17 00:07:07 INFO  InitialProcess:138 - reportOpen = true
