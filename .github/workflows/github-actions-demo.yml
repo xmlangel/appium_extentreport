@@ -16,4 +16,5 @@ jobs:
       - name: List files in the repository
         run: 
           ls ${{ github.workspace }}
+          appium
       - run: echo "🍏 This job's status is ${{ job.status }}."
